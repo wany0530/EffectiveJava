@@ -1,9 +1,6 @@
-package chaptor01.item01.staticFactoryMethod05;
+package chaptor01.item01.mainpoint.staticFactoryMethod05;
 
-//import chaptor01.item01.staticFactoryMethod03_04.ChineseHelloService;
-
-import java.util.Optional;
-import java.util.ServiceLoader;
+//import chaptor01.item01.mainpoint.staticFactoryMethod03_04.ChineseHelloService;
 
 /**
  *

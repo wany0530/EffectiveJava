@@ -1,4 +1,4 @@
-package chaptor01.item01.staticFactoryMethod05;
+package chaptor01.item01.mainpoint.staticFactoryMethod05;
 
 
 /**
@@ -9,6 +9,5 @@ package chaptor01.item01.staticFactoryMethod05;
 
 public interface HelloService
 {
-    public abstract String hello(); //
-
+    public abstract String hello();
 }

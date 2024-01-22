@@ -1,4 +1,4 @@
-package chaptor01.item01.staticFactoryMethod02;
+package chaptor01.item01.mainpoint.staticFactoryMethod02;
 /**
  *     정적 팩토리 메소드의 장점 02 : 호출할 때마다 인스턴스를 새로 생성하지 않아도 된다.
  *     대표적인 예로 Boolean.valueOF(boolean boolean) 메서드는 객체를 아예 생성하지 않는다.

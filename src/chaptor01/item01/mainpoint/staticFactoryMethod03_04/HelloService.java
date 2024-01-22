@@ -1,4 +1,4 @@
-package chaptor01.item01.staticFactoryMethod03_04;
+package chaptor01.item01.mainpoint.staticFactoryMethod03_04;
 
 
 /**
