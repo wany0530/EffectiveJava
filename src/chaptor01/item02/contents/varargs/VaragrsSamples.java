@@ -15,6 +15,9 @@ public class VaragrsSamples
     {
         System.out.println(numbers.getClass().getCanonicalName()); // 어떤 타입인지 알려주는 메소드 getCanonicalName() -> 여기서는 int[]
         System.out.println(numbers.getClass().getComponentType()); // 해당 배열이 어떤 타입인지. getComponentType() -> 여기서는 int
+
+
+
         Arrays.stream(numbers).forEach(System.out::println);
     }
 
