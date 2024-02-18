@@ -1,4 +1,4 @@
-package chaptor01.item3.mainpoint.consturctUsedWay;
+package chaptor01.item03.mainpoint.consturctUsedWay;
 
 
 /**
